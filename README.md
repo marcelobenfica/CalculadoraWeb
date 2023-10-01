@@ -3,7 +3,8 @@ Nesse projeto criei uma calculadora funcional inspirada na calucladora do Window
 Houve também muito aprendizado em JavaScript, com a utilização de funções como switch e slice. ALém de trabalhar com orientação a objeto com JavaScript.
 
 
-<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93626371/271842744-ba0c7998-f3fb-49b0-91f7-8ec4ef0869bb.png" align="center">
-
+<div align="center">
+  <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/93626371/271842744-ba0c7998-f3fb-49b0-91f7-8ec4ef0869bb.png">
+</div>
 
 
