@@ -1,4 +1,4 @@
-Nesse projeto aprofundei meus conhecimentos na utilização de Flexbox em CSS, através dos posicionamentos de elementos na tela.
+Nesse projeto criei uma calculadora funcional inspirada na calucladora do Windows. Tive a oportunidade de aprofundar meus conhecimentos na utilização de Flexbox em CSS, através dos posicionamentos de elementos na tela.
 
 Houve também muito aprendizado em JavaScript, com a utilização de funções como switch e slice. ALém de trabalhar com orientação a objeto com JavaScript.
 
